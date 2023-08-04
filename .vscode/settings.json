@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.gitignore": true,
+        "**/jsconfig.json": true,
+        "**/package-lock.json": true,
+        "**/postcss.config.js": true,
+        "**/.next": true,
+        "**/.eslintrc.json":true,
+        "**/next.config.js":true
+    }
+}
